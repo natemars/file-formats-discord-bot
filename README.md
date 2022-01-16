@@ -8,5 +8,6 @@ Specify the bot's token there.
 
 # Resources
 https://youtu.be/j_sD9udZnCk
+https://www.youtube.com/watch?v=nTGtiCC3iQM
 
 https://discordapi.com/permissions.html
