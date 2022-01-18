@@ -32,5 +32,4 @@ client.on('message', message => {
     }
 });
 
-// TODO Need local config file to store token. Token below is not used anymore by discord.
 client.login(config.token);

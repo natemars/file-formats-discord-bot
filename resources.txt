@@ -1,0 +1,5 @@
+client intents: https://discord.js.org/#/docs/main/stable/class/Intents?scrollTo=s-FLAGS
+
+first tutorial:
+https://youtu.be/j_sD9udZnCk
+https://www.youtube.com/watch?v=nTGtiCC3iQM
