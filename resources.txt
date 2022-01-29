@@ -3,3 +3,8 @@ client intents: https://discord.js.org/#/docs/main/stable/class/Intents?scrollTo
 first tutorial:
 https://youtu.be/j_sD9udZnCk
 https://www.youtube.com/watch?v=nTGtiCC3iQM
+
+
+docs: https://discord.js.org/#/
+
+intents calculator: https://ziad87.net/intents/

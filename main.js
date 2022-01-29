@@ -1,3 +1,4 @@
+//TODO delete for index.ts
 const { Client, Intents } = require('discord.js');
 const Discord = require('discord.js');
 
