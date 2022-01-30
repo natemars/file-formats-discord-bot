@@ -12,6 +12,8 @@ const client = new DiscordJS.Client({
 // Listen for when the bot is ready
 client.on('ready', () => {
     console.log('The bot is ready!')
+    const fileFormatsGuildId = '322254386443190273'
+    const guild = client.guilds.cache.get(fileFormatsGuildId)
   })
   // Listen for new messages
   client.on('messageCreate', (msg) => {

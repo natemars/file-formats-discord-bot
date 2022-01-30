@@ -1,0 +1,6 @@
+nodemon checks to see if any ts files change
+
+guild commands for individual servers
+global commands for all servers
+
+discord application test mode?
