@@ -4,3 +4,5 @@ guild commands for individual servers
 global commands for all servers
 
 discord application test mode?
+
+explains "?." https://blog.mrhaki.com/2009/08/groovy-goodness-safe-navigation-to.html
