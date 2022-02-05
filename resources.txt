@@ -9,3 +9,4 @@ docs: https://discord.js.org/#/
 
 intents calculator: https://ziad87.net/intents/
 
+vs code tips and tricks! https://www.youtube.com/watch?v=ifTF3ags0XI
